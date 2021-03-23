@@ -6,3 +6,4 @@ seaborn
 missingno
 scipy
 tensorflow
+statsmodels
